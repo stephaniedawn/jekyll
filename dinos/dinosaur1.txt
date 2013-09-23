@@ -1,0 +1,9 @@
+---
+name: Triceritops
+size: Medium
+colour: Brown-Green
+food: Omnivore
+category: dinos
+---
+
+The triceritops has a *big thing* on its head.

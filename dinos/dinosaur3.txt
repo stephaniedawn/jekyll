@@ -1,0 +1,9 @@
+---
+name: Stegasaurus
+size: Medium
+colour: Grey
+food: Omnivore
+category: dinos
+---
+
+The Stegasaurus is a silly looking dinosaur with spikes all down its spine.

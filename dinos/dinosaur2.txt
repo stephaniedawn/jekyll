@@ -1,0 +1,9 @@
+---
+name: Tyrannesaurus Rex
+size: Large
+colour: Green
+food: Carnivore
+category: dinos
+---
+
+The Tyrannesaurus Rex is a giant flesh eating monster but with incredibly weak and pathetic tiny arms.
